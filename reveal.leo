@@ -49,6 +49,8 @@
 <v t="leo.20160110162737.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20160110162740.1"><vh>@edit 2015cphww13.md</vh></v>
 <v t="leo.20160110162744.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo.20160111133251.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20160111111102.1"><vh>@edit 2015cphww17.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -400,7 +402,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160110170907.1" a="E"><vh>@clean simplest_8.html</vh>
+<v t="leo.20160110170907.1"><vh>@clean simplest_8.html</vh>
 <v t="leo.20160110170907.2"><vh>檔案說明</vh></v>
 <v t="leo.20160110170907.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160110170907.4" a="E"><vh>body 標註</vh>
@@ -430,24 +432,24 @@
 </v>
 </v>
 </v>
-<v t="leo.20160110170911.1"><vh>@clean simplest_12.html</vh>
-<v t="leo.20160110170911.2"><vh>檔案說明</vh></v>
-<v t="leo.20160110170911.3" a="E"><vh>html 標註</vh>
-<v t="leo.20160110170911.4" a="E"><vh>body 標註</vh>
-<v t="leo.20160110170911.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20160110170911.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160110170911.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160110170911.8"><vh>作業任務一</vh></v>
-<v t="leo.20160110170911.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160111112124.1"><vh>@clean simplest_12.html</vh>
+<v t="leo.20160111112124.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111112124.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111112124.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111112124.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111112124.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111112124.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160111112124.8"><vh>作業任務一</vh></v>
+<v t="leo.20160111112124.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20160110170911.10"><vh>script</vh></v>
+<v t="leo.20160111112124.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20160110170913.1"><vh>@clean simplest_13.html</vh>
+<v t="leo.20160110170913.1" a="E"><vh>@clean simplest_13.html</vh>
 <v t="leo.20160110170913.2"><vh>檔案說明</vh></v>
-<v t="leo.20160110170913.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160110170913.3"><vh>html 標註</vh>
 <v t="leo.20160110170913.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160110170913.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160110170913.6" a="E"><vh>div class="slides"</vh>
@@ -472,6 +474,36 @@
 </v>
 </v>
 <v t="leo.20160110171011.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111133127.1"><vh>@clean simplest_15.html</vh>
+<v t="leo.20160111133127.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111133127.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111133127.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111133127.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111133127.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111133127.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160111133127.8"><vh>作業任務一</vh></v>
+<v t="leo.20160111133127.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20160111133127.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111122647.1"><vh>@clean simplest_17.html</vh>
+<v t="leo.20160111122647.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111122647.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111122647.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111122647.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111122647.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111122647.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160111122647.8"><vh>作業任務一</vh></v>
+<v t="leo.20160111122647.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20160111122647.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -3106,140 +3138,46 @@ EX:#這是W1課程內容介紹介紹 (螢幕上就不會顯示該字串)
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計一甲&lt;/h1&gt;
-    &lt;p&gt;40423119 周嘉原 9/25&lt;/p&gt;		
+    &lt;p&gt;40423119 周嘉原 11/27&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160110170909.8">&lt;section id="hw-task-one"&gt;
-     &lt;h1&gt;引號的使用規則&lt;/h1&gt;
-    &lt;p&gt;關於引號的使用,單引號跟雙引號能把裡面的字做輸出,但不能任意的切換這兩個引號,這點在輸出英文字串的時候尤其需要注意&lt;/p&gt;
+   &lt;h1&gt;W11上課內容:&lt;/h1&gt;
+修改fix：
 &lt;br /&gt;
-EX : W1教的"print('___')"
+下載fix.zip→搜尋github leo editor→點選releases下載broke-abbrev.zip→將資料夾複製到fix→打開Ana3_2015/data/SciTE→點選SciTE.exe開啟→將fix.bat複製到SciTE貼上→輸入copy leo editor broke-abbrev.zip C:\Ana3_2015\data\儲存→接著將start.bat複製到SciTE貼上→在第35行下修改為pip install leo-editor-broke-abbrev.zip
 &lt;/section&gt;
-
 
 &lt;section&gt;
-&lt;h1&gt;W2上課內容:&lt;/h1&gt;
-
-使用Github倉儲(下載)
+&lt;h1&gt;猜數字遊戲:&lt;/h1&gt;
+______________________________________________________
 &lt;br /&gt;
-進入Github主頁→複製連結網址→開啟Ana3_lite2裡的start.bat→
+#(單行註解)
 &lt;br /&gt;
-使用命令黑頁輸入檔案位置:
+import(導入)
 &lt;br /&gt;
-cd tmp→cd 2015fallcpa(Y:\tmp\2015fallcpa)→輸入git clone 貼上連結網址(下載檔案)→
+random(亂數模組)
 &lt;br /&gt;
-使用Github倉儲(上傳)
+randint(產生變數)
 &lt;br /&gt;
-輸入git add -A→git commit -m"學號"→git config user.email "信箱"→git config user.name "名字"
+input("輸入字串")，其中int轉成整數(integer)
 &lt;br /&gt;
-→git push origin gh-pages→END
-&lt;/section&gt;
-
-				
-</t>
+float(浮點數)
+&lt;br /&gt;
+while(迴圈關鍵字)
+&lt;br /&gt;
+!=(不等於)
+&lt;/section&gt;</t>
 <t tx="leo.20160110170909.9">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-這禮拜的課程讓我學到如何不用操作介面命令電腦執行作業，就如同老師上課所說的，當一位工程師必須具備在不同操作環境下能夠隨時適應的能力。Ana3_lite2和命令提示字元的使用就是在建立我們這樣的觀念，Github倉儲則是工程師管理檔案的工具
+第11週我學會了如何將有問題的fix修改好，能夠啟動leo，讓自己到環境更好，還有這週的猜數字遊戲真的好有趣，利用PYTHON3寫出玩遊戲的程式，讓我想更進一步的認識PYTHON3。
 &lt;/section&gt;
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;從開學到現在,除了對python有更深入的了解,也學到了Github倉儲，個人對這周學習表現給69分&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20160110170911.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20160110170911.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20160110170911.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20160110170911.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20160110170911.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20160110170911.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20160110170911.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20160110170911.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設計一甲&lt;/h1&gt;
-    &lt;p&gt;40423119 周嘉原 9/25&lt;/p&gt;		
+    &lt;p&gt;雖然照著老師做是免強可以,不過還是有許多需改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 &lt;/section&gt;
-	
-</t>
-<t tx="leo.20160110170911.8">&lt;section id="hw-task-one"&gt;
-     &lt;h1&gt;引號的使用規則&lt;/h1&gt;
-    &lt;p&gt;關於引號的使用,單引號跟雙引號能把裡面的字做輸出,但不能任意的切換這兩個引號,這點在輸出英文字串的時候尤其需要注意&lt;/p&gt;
-&lt;br /&gt;
-EX : W1教的"print('___')"
-&lt;/section&gt;
-
-
-&lt;section&gt;
-&lt;h1&gt;W2上課內容:&lt;/h1&gt;
-
-使用Github倉儲(下載)
-&lt;br /&gt;
-進入Github主頁→複製連結網址→開啟Ana3_lite2裡的start.bat→
-&lt;br /&gt;
-使用命令黑頁輸入檔案位置:
-&lt;br /&gt;
-cd tmp→cd 2015fallcpa(Y:\tmp\2015fallcpa)→輸入git clone 貼上連結網址(下載檔案)→
-&lt;br /&gt;
-使用Github倉儲(上傳)
-&lt;br /&gt;
-輸入git add -A→git commit -m"學號"→git config user.email "信箱"→git config user.name "名字"
-&lt;br /&gt;
-→git push origin gh-pages→END
-&lt;/section&gt;
-
-				
-</t>
-<t tx="leo.20160110170911.9">&lt;section&gt;
-&lt;h1&gt;心得&lt;/h1&gt;
-這禮拜的課程讓我學到如何不用操作介面命令電腦執行作業，就如同老師上課所說的，當一位工程師必須具備在不同操作環境下能夠隨時適應的能力。Ana3_lite2和命令提示字元的使用就是在建立我們這樣的觀念，Github倉儲則是工程師管理檔案的工具
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;從開學到現在,除了對python有更深入的了解,也學到了Github倉儲，個人對這周學習表現給69分&lt;/p&gt;
-&lt;/section&gt;</t>
+	</t>
 <t tx="leo.20160110170913.1">@language xml
 @tabwidth -4
 @others
@@ -3294,45 +3232,27 @@ cd tmp→cd 2015fallcpa(Y:\tmp\2015fallcpa)→輸入git clone 貼上連結網址
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計一甲&lt;/h1&gt;
-    &lt;p&gt;40423119 周嘉原 9/25&lt;/p&gt;		
+    &lt;p&gt;40423119 周嘉原 12/11&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160110170913.8">&lt;section id="hw-task-one"&gt;
-     &lt;h1&gt;引號的使用規則&lt;/h1&gt;
-    &lt;p&gt;關於引號的使用,單引號跟雙引號能把裡面的字做輸出,但不能任意的切換這兩個引號,這點在輸出英文字串的時候尤其需要注意&lt;/p&gt;
-&lt;br /&gt;
-EX : W1教的"print('___')"
-&lt;/section&gt;
-
-
-&lt;section&gt;
-&lt;h1&gt;W2上課內容:&lt;/h1&gt;
-
-使用Github倉儲(下載)
-&lt;br /&gt;
-進入Github主頁→複製連結網址→開啟Ana3_lite2裡的start.bat→
-&lt;br /&gt;
-使用命令黑頁輸入檔案位置:
-&lt;br /&gt;
-cd tmp→cd 2015fallcpa(Y:\tmp\2015fallcpa)→輸入git clone 貼上連結網址(下載檔案)→
-&lt;br /&gt;
-使用Github倉儲(上傳)
-&lt;br /&gt;
-輸入git add -A→git commit -m"學號"→git config user.email "信箱"→git config user.name "名字"
-&lt;br /&gt;
-→git push origin gh-pages→END
+    
+&lt;h1&gt;W13上課內容:&lt;/h1&gt;
+ &lt;p&gt;數列(List):&lt;/p&gt;
+ &lt;p&gt;我們可以利用python寫出一串數列的程式與法，並且協助我們從這些數列裡求出我們要的答案。&lt;/p&gt;
+ 
 &lt;/section&gt;
 
 				
 </t>
 <t tx="leo.20160110170913.9">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-這禮拜的課程讓我學到如何不用操作介面命令電腦執行作業，就如同老師上課所說的，當一位工程師必須具備在不同操作環境下能夠隨時適應的能力。Ana3_lite2和命令提示字元的使用就是在建立我們這樣的觀念，Github倉儲則是工程師管理檔案的工具
+這週老師教我們利用PYTHON寫出一串數列，從這些數列當中隨機抽樣的方式找出答案，這樣的方法真是太好用了!
 &lt;/section&gt;
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;從開學到現在,除了對python有更深入的了解,也學到了Github倉儲，個人對這周學習表現給69分&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做是免強可以,不過還是有許多需改善的部分,個人對這週學習表現給70分。&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20160110171011.1">@language xml
 @tabwidth -4
@@ -3388,45 +3308,271 @@ cd tmp→cd 2015fallcpa(Y:\tmp\2015fallcpa)→輸入git clone 貼上連結網址
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計一甲&lt;/h1&gt;
-    &lt;p&gt;40423119 周嘉原 9/25&lt;/p&gt;		
+    &lt;p&gt;40423119 周嘉原 12/18&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160110171011.8">&lt;section id="hw-task-one"&gt;
-     &lt;h1&gt;引號的使用規則&lt;/h1&gt;
-    &lt;p&gt;關於引號的使用,單引號跟雙引號能把裡面的字做輸出,但不能任意的切換這兩個引號,這點在輸出英文字串的時候尤其需要注意&lt;/p&gt;
-&lt;br /&gt;
-EX : W1教的"print('___')"
-&lt;/section&gt;
-
-
-&lt;section&gt;
-&lt;h1&gt;W2上課內容:&lt;/h1&gt;
-
-使用Github倉儲(下載)
-&lt;br /&gt;
-進入Github主頁→複製連結網址→開啟Ana3_lite2裡的start.bat→
-&lt;br /&gt;
-使用命令黑頁輸入檔案位置:
-&lt;br /&gt;
-cd tmp→cd 2015fallcpa(Y:\tmp\2015fallcpa)→輸入git clone 貼上連結網址(下載檔案)→
-&lt;br /&gt;
-使用Github倉儲(上傳)
-&lt;br /&gt;
-輸入git add -A→git commit -m"學號"→git config user.email "信箱"→git config user.name "名字"
-&lt;br /&gt;
-→git push origin gh-pages→END
-&lt;/section&gt;
-
-				
-</t>
+   
+&lt;h1&gt;W14上課內容:&lt;/h1&gt;
+利用 Brython 在網頁寫 Python 繪圖，畫出水平線及垂直線。
+&lt;/section&gt;</t>
 <t tx="leo.20160110171011.9">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-這禮拜的課程讓我學到如何不用操作介面命令電腦執行作業，就如同老師上課所說的，當一位工程師必須具備在不同操作環境下能夠隨時適應的能力。Ana3_lite2和命令提示字元的使用就是在建立我們這樣的觀念，Github倉儲則是工程師管理檔案的工具
+這禮拜老師教我們如何在網頁上畫圖，就是在網頁畫出垂直線和水平線互相交錯，類似網狀的圖案，一開始有點難畫，但是熟知程式語法.之後，變得容易許多。
 &lt;/section&gt;
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;從開學到現在,除了對python有更深入的了解,也學到了Github倉儲，個人對這周學習表現給69分&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做是免強可以,不過還是有許多需改善的部分,個人對這週學習表現給70分。&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160111112124.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111112124.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111112124.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160111112124.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111112124.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111112124.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111112124.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111112124.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計一甲&lt;/h1&gt;
+    &lt;p&gt;40423119 周嘉原 12/4&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160111112124.8">&lt;section id="hw-task-one"&gt;
+   &lt;h1&gt;W12上課內容:&lt;/h1&gt;
+修改fix：
+&lt;br /&gt;
+下載fix.zip→搜尋github leo editor→點選releases下載broke-abbrev.zip→將資料夾複製到fix→打開Ana3_2015/data/SciTE→點選SciTE.exe開啟→將fix.bat複製到SciTE貼上→輸入copy leo editor broke-abbrev.zip C:\Ana3_2015\data\儲存→接著將start.bat複製到SciTE貼上→在第35行下修改為pip install leo-editor-broke-abbrev.zip
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h1&gt;猜數字遊戲:&lt;/h1&gt;
+______________________________________________________
+&lt;br /&gt;
+#(單行註解)
+&lt;br /&gt;
+import(導入)
+&lt;br /&gt;
+random(亂數模組)
+&lt;br /&gt;
+randint(產生變數)
+&lt;br /&gt;
+input("輸入字串")，其中int轉成整數(integer)
+&lt;br /&gt;
+float(浮點數)
+&lt;br /&gt;
+while(迴圈關鍵字)
+&lt;br /&gt;
+!=(不等於)
+&lt;/section&gt;</t>
+<t tx="leo.20160111112124.9">&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+第11週我學會了如何將有問題的fix修改好，能夠啟動leo，讓自己到環境更好，還有這週的猜數字遊戲真的好有趣，利用PYTHON3寫出玩遊戲的程式，讓我想更進一步的認識PYTHON3。
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;雖然照著老師做是免強可以,不過還是有許多需改善的部分,個人對這週學習表現給70分&lt;/p&gt;
+&lt;/section&gt;
+	</t>
+<t tx="leo.20160111122647.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111122647.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111122647.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160111122647.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111122647.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111122647.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111122647.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111122647.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計一甲&lt;/h1&gt;
+    &lt;p&gt;40423119 周嘉原 1/8&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160111122647.8">&lt;section id="hw-task-one"&gt;
+
+&lt;h1&gt;W17上課內容:&lt;/h1&gt;
+在網頁上使用動態模擬，只要按下Click me!，程式將會執行動態圖像。
+&lt;/section&gt;</t>
+<t tx="leo.20160111122647.9">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;這禮拜老師使用動態模擬的程式,利用視覺暫留的方式,所以我們看到就像是球從高處落下,但是在程式執行看來,他是一個一個點停頓掉下來，好有趣喔!&lt;/p&gt;		
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;雖然照著老師做是免強可以,不過還是有許多需改善的部分,個人對這週學習表現給70分。&lt;/p&gt;   	
+&lt;/section&gt;</t>
+<t tx="leo.20160111133127.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111133127.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111133127.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160111133127.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111133127.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111133127.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111133127.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111133127.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計一甲&lt;/h1&gt;
+    &lt;p&gt;40423119 周嘉原 12/25&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160111133127.8">&lt;section id="hw-task-one"&gt;
+
+&lt;h1&gt;W15上課內容:&lt;/h1&gt;
+這週老師要我們建立各組的倉儲，來寫一份報告，並且個組員必須附上一張自己繪製的聖誕節2D圖。
+&lt;/section&gt;
+
+
+&lt;section&gt;
+&lt;h1&gt;W15分組報告:&lt;/h1&gt;
+&lt;p&gt;1.Python3 的近端程式開發系統如何建立? 如何啟動?&lt;/p&gt;
+
+&lt;p&gt;2.目前已經熟悉的 Python3 指令及語法有哪些? 請舉例說明&lt;/p&gt;
+
+&lt;p&gt;3.請利用流程圖, 簡要說明近端猜數字遊戲與猜顏色遊戲程式碼如何設計與運作&lt;/p&gt;
+
+&lt;p&gt;4.請各組員利用 Brython, 分別在各分組的 pelican 網頁文章中, 繪製一個歡慶耶誕的 2D 圖形&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160111133127.9">&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+這週我學會了如何建立各組的倉儲，然後一起完成一份報告，不僅能分工合作，還提升了工作效率，是一個很不錯的方法。
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;雖然照著老師做是免強可以,不過還是有許多需改善的部分,個人對這週學習表現給75分。&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
